@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Proxima Nova Bl';
-    src: url('ProximaNova-Black.woff2') format('woff2'),
-        url('ProximaNova-Black.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNova-Black.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNova-Black.woff') format('woff');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Proxima Nova Cn Rg';
-    src: url('ProximaNovaCond-Regular.woff2') format('woff2'),
-        url('ProximaNovaCond-Regular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNovaCond-Regular.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNovaCond-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -18,8 +18,8 @@
 
 @font-face {
     font-family: 'Proxima Nova Rg';
-    src: url('ProximaNova-Bold.woff2') format('woff2'),
-        url('ProximaNova-Bold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNova-Bold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNova-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -27,8 +27,8 @@
 
 @font-face {
     font-family: 'Proxima Nova Cn Lt';
-    src: url('ProximaNovaCond-Light.woff2') format('woff2'),
-        url('ProximaNovaCond-Light.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNovaCond-Light.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/reeceballano/proximanovafont/master/ProximaNovaCond-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
